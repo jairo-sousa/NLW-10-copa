@@ -16,7 +16,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-O projeto Claendário da copa mostra os jogos da copa de 2022
+O projeto Calendário da copa mostra os jogos da copa de 2022
 
 ## Layout
 
